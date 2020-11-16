@@ -1,0 +1,6 @@
+C:\Users\m825\source\repos\Project13\x64\Debug\Project13.exe
+C:\Users\m825\source\repos\Project13\x64\Debug\Project13.pdb
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\x64\Debug\Project13.exe
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\x64\Debug\Project13.pdb
+C:\Users\Silver VG\Desktop\De carlitos\tuyo\x64\Debug\Project13.exe
+C:\Users\Silver VG\Desktop\De carlitos\tuyo\x64\Debug\Project13.pdb

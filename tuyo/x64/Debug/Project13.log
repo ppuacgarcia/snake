@@ -1,0 +1,45 @@
+﻿  Juego.cpp
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(64,37): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(66,39): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(109,53): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(110,54): warning C4244: '=': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(118,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(127,40): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(129,28): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(130,26): warning C4305: '=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(131,26): warning C4305: '=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(187,11): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\m825\Desktop\Nueva carpeta\tuyo\Juego.cpp(376): warning C4715: 'Juego::FrutasRandom': no todas las rutas de acceso de control devuelven un valor
+  Project13.vcxproj -> C:\Users\m825\Desktop\Nueva carpeta\tuyo\x64\Debug\Project13.exe

@@ -165,6 +165,7 @@ void Juego::Mostrar() {
 }
 void Juego::Loop() {
 	while (this->window->isOpen()) {
+		srand(time(NULL));
 		ProcesarMouse(); 
 		ProcesarEventos();
 		Mostrar();
@@ -307,7 +308,7 @@ void Juego::ProcesarEventos() {
 					}
 					
 				}else if (Keyboard::isKeyPressed(Keyboard::Down)) {
-					aid = 3;
+				
 					if (aid != 1)
 					{
 						aid = 3;

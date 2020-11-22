@@ -1,0 +1,12 @@
+﻿  Nodo.cpp
+C:\Users\Silver VG\Desktop\De carlitos\Visual\culebrita\culebrita\Nodo.cpp(119,129): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Silver VG\Desktop\De carlitos\Visual\culebrita\culebrita\Nodo.cpp(119,78): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  culebrita.vcxproj -> C:\Users\Silver VG\Desktop\De carlitos\Visual\culebrita\x64\Debug\culebrita.exe
